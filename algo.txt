@@ -1,0 +1,7 @@
+step1- Create 3 files with names x.java, y.py, z.js
+step2- for every file we will create a respective folder with respective file name without extension
+o/p 3 folders java x, y, z are created
+step3-in every folder a respective sub folder is created with respetive extension names
+o/p java subfolder in x, py subfolder in y, js subfolder in z aree created
+step4-cut each file and copy in to respective folders with fileext names
+o/p x.java is pasted in x/java, y.py is pasted in y/py, z.js is pasted in z/py 
